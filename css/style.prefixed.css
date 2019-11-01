@@ -11,6 +11,7 @@ div {
 h3 {
     font-size: 32px;
     font-style: italic;
+    display: -ms-flexbox;
     display: flex;
 }
 p {
