@@ -1,0 +1,2 @@
+npx autoprefixer-cli -o style.prefixed.css style.css
+nu-html-checker /usr/local/bin/nu-html-checker index.html
